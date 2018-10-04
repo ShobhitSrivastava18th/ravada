@@ -1,7 +1,4 @@
-<img height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="rvd-logo" src="https://ravada.upc.edu/img/profile.png">
-
-# ravada
-
+# ravada 
 [![GitHub version](https://img.shields.io/badge/version-0.2.17-brightgreen.svg)](https://github.com/UPC/ravada/releases) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://github.com/UPC/ravada/blob/master/LICENSE)
 [![Documentation Status](https://readthedocs.org/projects/ravada/badge/?version=latest)](http://ravada.readthedocs.io/en/latest/?badge=latest)
 [![Follow twitter](https://img.shields.io/twitter/follow/ravada_vdi.svg?style=social&label=Twitter&style=flat-square)](https://twitter.com/ravada_vdi)
@@ -11,12 +8,14 @@
 
 ## Remote Virtual Desktops Manager
 
+<img height="90" align="left" style="float: left; margin: 0 5px 0 0;" alt="rvd-logo" src="https://ravada.upc.edu/img/profile.png">
 Ravada is a software that allows the user to connect to a
 remote virtual desktop.
 
 In the current release we use the
 KVM Hypervisors: [KVM](http://www.linux-kvm.org/) as the backend for the Virtual Machines.
  [LXC](https://linuxcontainers.org/) support is currently in development.
+
 
 ### Features
 
