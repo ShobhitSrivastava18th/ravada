@@ -1,4 +1,5 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://ravada.upc.edu/img/profile.png">   
+<img height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="rvd-logo" src="https://ravada.upc.edu/img/profile.png">
+
 # ravada
 
 [![GitHub version](https://img.shields.io/badge/version-0.2.17-brightgreen.svg)](https://github.com/UPC/ravada/releases) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://github.com/UPC/ravada/blob/master/LICENSE)
@@ -7,7 +8,6 @@
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg)](https://t.me/ravadavdi)
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
-
 
 ## Remote Virtual Desktops Manager
 
